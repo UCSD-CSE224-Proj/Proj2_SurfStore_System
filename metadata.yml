@@ -1,0 +1,14 @@
+---
+:id: 24692336
+:submitters:
+- :name: Hangquan Zhao
+  :email: haz023@ucsd.edu
+- :name: Yanzhe Su
+  :email: y3su@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-11-14 18:13:04.909800000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-11-14 10:13:04.909800000 Z
+:status: processed
+:score: 22.0
